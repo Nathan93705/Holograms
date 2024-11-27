@@ -43,4 +43,5 @@ pinger:
 ```
 
 Veiw Placeholders [Here](https://github.com/Nathan93705/Holograms/blob/main/PlaceHolders.md)
+
 Veiw Commands [Here](https://github.com/Nathan93705/Holograms/blob/main/Commands.md)
